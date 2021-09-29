@@ -1,0 +1,20 @@
+Exercise 2-3 arbejder inden for forskellige emner inden for programmering der tillader studerende at øve sig i det inden eksamen
+
+PREREQUISITES
+inden du arbejder med dette projekt skal du sørge for at du
+1. har den senest opdaterede version af windows/mac/linux
+2. har den senest opdaterede version af intellij
+selvom disse selvfølgelig ikke nødvendige for at programmet kan køres så bliver de foreslået i så den studerende kan undgå at løbe ind i unødvendige problemer med enten styresystemer eller intellij
+
+CONTRIBUTING TO <PC_company>
+1. fork dette repository
+2. lav en ny branch: git checkout -b <branch_name>.
+3. foretag ændringer og commit dem: git commit -m '<commit_message>'
+4. push til den originale branch: git push origin <PC_company>/<location>
+5. foretag pull request.
+
+CONTRIBUTORS
+@madsrasmussen98
+
+CONTACT
+contact me on my email
